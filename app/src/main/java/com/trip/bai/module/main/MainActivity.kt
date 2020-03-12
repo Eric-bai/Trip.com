@@ -1,6 +1,7 @@
-package com.trip.bai
+package com.trip.bai.module.main
 
 import android.os.Bundle
+import com.trip.bai.R
 import com.trip.bai.base.BaseActivity
 
 class MainActivity : BaseActivity() {
